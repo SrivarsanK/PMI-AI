@@ -6,3 +6,4 @@ influxdb-client[async]
 scipy
 numpy
 scikit-learn
+torch
