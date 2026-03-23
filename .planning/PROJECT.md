@@ -16,11 +16,11 @@ Predict machine failures in advance to enable proactive maintenance, reducing un
 
 ### Active
 
-- [ ] **Continuous Sensor Monitoring**: Ingest and process real-time data from temperature, vibration, and pressure sensors.
-- [ ] **Failure Prediction**: Implement time-series analysis to predict potential equipment failures before they occur.
-- [ ] **RUL Estimation**: Estimate the Remaining Useful Life (RUL) of machinery based on historical and real-time data.
-- [ ] **Proactive Scheduling**: Provide actionable maintenance schedules based on AI predictions rather than fixed intervals.
-- [ ] **API Layer**: Build a robust Backend/API using FastAPI to serve predictions and handle data flow.
+- [ ] **[REQ-01] Continuous Sensor Monitoring**: Ingest and process real-time data from temperature, vibration, and pressure sensors.
+- [ ] **[REQ-02] Failure Prediction**: Implement time-series analysis to predict potential equipment failures before they occur.
+- [ ] **[REQ-03] RUL Estimation**: Estimate the Remaining Useful Life (RUL) of machinery based on historical and real-time data.
+- [ ] **[REQ-04] Proactive Scheduling**: Provide actionable maintenance schedules based on AI predictions rather than fixed intervals.
+- [ ] **[REQ-05] API Layer**: Build a robust Backend/API using FastAPI to serve predictions and handle data flow.
 
 ### Out of Scope
 
