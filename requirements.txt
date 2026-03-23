@@ -2,3 +2,7 @@ fastapi
 uvicorn
 pydantic-settings
 python-dotenv
+influxdb-client[async]
+scipy
+numpy
+scikit-learn
