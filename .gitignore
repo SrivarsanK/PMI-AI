@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+
+# Node.js
+pmi-ai/node_modules/
+pmi-ai/.next/
+pmi-ai/out/
+
+# Environments
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.venv/
+venv/
+ENV/
+
+# AI-related / Tooling
+.agent/
+.agents/
+.claude/
+.kiro/
+.gemini/
+
+# IDEs
+.idea/
+.vscode/
+
+# Project Specific
+.planning/STATE.md
+.planning/ROADMAP.md
+# Wait, let me check if those should be pushed. Usually they should be, but they were shown as modified.
+# I will not ignore them for now.
